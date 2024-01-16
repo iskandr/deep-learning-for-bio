@@ -1,3 +1,7 @@
+# Class Specific Stuff to De-Clutter the Repo
+private_*
+.*/private_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
